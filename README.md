@@ -1,4 +1,4 @@
-# Aththichudi [Download] ()
+# Aththichudi [Download](https://raw.githubusercontent.com/Katheesh/Aththichudi/master/aathicudi.json)
 ஆத்தி சூடி யமர்ந்த தேவனை ஏத்தி யேத்தித் தொழுவோ மியாமே!
 
 ## Sample Format
